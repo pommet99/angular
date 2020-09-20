@@ -32,11 +32,6 @@
   line-height: 24px;
 }
 
-.card.card-small {
-  height: 16px;
-  width: 168px;
-}
-
 .card.highlight-card {
   background-color: #1976d2;
   color: white;
@@ -45,15 +40,4 @@
   width: auto;
   min-width: 30%;
   position: relative;
-}
-
-.card.card.highlight-card span {
-  margin-left: 60px;
-}
-
-svg#rocket {
-  width: 80px;
-  position: absolute;
-  left: -10px;
-  top: -24px;
 }
